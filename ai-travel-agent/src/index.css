@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.App{
+    background-color: #18181B;   
+    height: 100vh ;
+}
+#root{
+    background-color: #18181B;   
+    height: 100vh;
+
+}
